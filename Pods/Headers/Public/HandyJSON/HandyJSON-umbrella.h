@@ -1,0 +1,5 @@
+XSym
+0060
+28cb3329c878fa43caf88fafcf285a87
+../../../Target Support Files/HandyJSON/HandyJSON-umbrella.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

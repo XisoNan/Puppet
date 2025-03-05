@@ -1,0 +1,5 @@
+XSym
+0050
+234e9e9131494890aedd1a12c273b972
+../../../Target Support Files/Hero/Hero-umbrella.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

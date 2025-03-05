@@ -1,0 +1,541 @@
+
+{
+    "提线木偶": [
+        {
+            "title": "提线木偶戏的别称是什么？",
+            "options": [
+                {
+                    "name": "A",
+                    "content": "悬丝木偶戏"
+                },
+                {
+                    "name": "B",
+                    "content": "掌中木偶戏"
+                },
+                {
+                    "name": "C",
+                    "content": "皮影戏"
+                },
+                {
+                    "name": "D",
+                    "content": "阳窗纸影戏"
+                }
+            ],
+            "answer": {
+                "name": "A"
+            }
+        },
+        {
+            "title": "提线木偶在闽南地区的俗称是？",
+            "options": [
+                {
+                    "name": "A",
+                    "content": "纸影"
+                },
+                {
+                    "name": "B",
+                    "content": "皮影"
+                },
+                {
+                    "name": "C",
+                    "content": "嘉礼"
+                },
+                {
+                    "name": "D",
+                    "content": "海派"
+                }
+            ],
+            "answer": {
+                "name": "C"
+            }
+        },
+        {
+            "title": "一个提线木偶，身上至少要装多少根丝线才能满足日常演出需求呢？",
+            "options": [
+                {
+                    "name": "A",
+                    "content": "12 "
+                },
+                {
+                    "name": "B",
+                    "content": "14"
+                },
+                {
+                    "name": "C",
+                    "content": "16"
+                },
+                {
+                    "name": "D",
+                    "content": "18"
+                }
+            ],
+            "answer": {
+                "name": "B"
+            }
+        },
+        {
+            "title": "______年，泉州提线木偶戏被列入 首批国家级非物质文化遗产保护名录",
+            "options": [
+                {
+                    "name": "A",
+                    "content": "2010"
+                },
+                {
+                    "name": "B",
+                    "content": "2008"
+                },
+                {
+                    "name": "C",
+                    "content": "2004"
+                },
+                {
+                    "name": "D",
+                    "content": "2006"
+                }
+            ],
+            "answer": {
+                "name": "D"
+            }
+        },
+        {
+            "title": "堪称客家文化艺术的“活化石”的是?",
+            "options": [
+                {
+                    "name": "A",
+                    "content": "梅县提线木偶戏"
+                },
+                {
+                    "name": "B",
+                    "content": "五华提线木偶戏"
+                },
+                {
+                    "name": "C",
+                    "content": "紫金提线木偶戏"
+                },
+                {
+                    "name": "D",
+                    "content": "罗洞提线木偶戏"
+                }
+            ],
+            "answer": {
+                "name": "A"
+            }
+        }
+    ],
+    "布袋木偶": [
+        {
+            "title": "以下哪个是布袋木偶戏的简称？",
+            "options": [
+                {
+                    "name": "A",
+                    "content": "皮影戏"
+                },
+                {
+                    "name": "B",
+                    "content": "烟花木偶戏"
+                },
+                {
+                    "name": "C",
+                    "content": "指头木偶戏"
+                },
+                {
+                    "name": "D",
+                    "content": "悬丝木偶戏"
+                }
+            ],
+            "answer": {
+                "name": "C"
+            }
+        },
+        {
+            "title": "布袋木偶的发明者是？",
+            "options": [
+                {
+                    "name": "A",
+                    "content": "李灌"
+                },
+                {
+                    "name": "B",
+                    "content": "孙巧仁"
+                },
+                {
+                    "name": "C",
+                    "content": "李法佐、李法佑俩兄弟"
+                },
+                {
+                    "name": "D",
+                    "content": "陈锦堂"
+                }
+            ],
+            "answer": {
+                "name": "B"
+            }
+        },
+        {
+            "title": "布袋戏的起源地被认为是什么地方？",
+            "options": [
+                {
+                    "name": "A",
+                    "content": "漳州"
+                },
+                {
+                    "name": "B",
+                    "content": "泉州"
+                },
+                {
+                    "name": "C",
+                    "content": "赣州"
+                },
+                {
+                    "name": "D",
+                    "content": "福州"
+                }
+            ],
+            "answer": {
+                "name": "B"
+            }
+        },
+        {
+            "title": "布袋木偶的头部是由哪一根手指控制的呢？",
+            "options": [
+                {
+                    "name": "A",
+                    "content": "食指 "
+                },
+                {
+                    "name": "B",
+                    "content": "大拇指"
+                },
+                {
+                    "name": "C",
+                    "content": "无名指"
+                },
+                {
+                    "name": "D",
+                    "content": "除食指和大拇指外的其它三指"
+                }
+            ],
+            "answer": {
+                "name": "A"
+            }
+        },
+        {
+            "title": "中国古代布袋木偶戏最兴盛的朝代是？",
+            "options": [
+                {
+                    "name": "A",
+                    "content": "晋朝"
+                },
+                {
+                    "name": "B",
+                    "content": "唐朝"
+                },
+                {
+                    "name": "C",
+                    "content": "宋朝"
+                },
+                {
+                    "name": "D",
+                    "content": "明清"
+                }
+            ],
+            "answer": {
+                "name": "D"
+            }
+        }
+    ],
+    "杖头木偶": [
+        {
+            "title": "杖头木偶戏始于哪个朝代？",
+            "options": [
+                {
+                    "name": "A",
+                    "content": "唐朝"
+                },
+                {
+                    "name": "B",
+                    "content": "宋朝"
+                },
+                {
+                    "name": "C",
+                    "content": "明朝"
+                },
+                {
+                    "name": "D",
+                    "content": "清朝"
+                }
+            ],
+            "answer": {
+                "name": "A"
+            }
+        },
+        {
+            "title": "杖头木偶杖头木偶由表演者操纵__根命杆和__根手杆进行表演",
+            "options": [
+                {
+                    "name": "A",
+                    "content": "2  4"
+                },
+                {
+                    "name": "B",
+                    "content": "1  3"
+                },
+                {
+                    "name": "C",
+                    "content": "1  2"
+                },
+                {
+                    "name": "D",
+                    "content": "2  3"
+                }
+            ],
+            "answer": {
+                "name": "C"
+            }
+        },
+        {
+            "title": "杖头木偶又称？",
+            "options": [
+                {
+                    "name": "A",
+                    "content": "线偶"
+                },
+                {
+                    "name": "B",
+                    "content": "魁偶"
+                },
+                {
+                    "name": "C",
+                    "content": "斗偶"
+                },
+                {
+                    "name": "D",
+                    "content": "棒偶"
+                }
+            ],
+            "answer": {
+                "name": "D"
+            }
+        },
+        {
+            "title": "现今，杖头木偶的手用什么制作而成？",
+            "options": [
+                {
+                    "name": "A",
+                    "content": "木材或油漆"
+                },
+                {
+                    "name": "B",
+                    "content": "塑料或树脂"
+                },
+                {
+                    "name": "C",
+                    "content": "尼龙或羊毛"
+                },
+                {
+                    "name": "D",
+                    "content": "铁丝或细绳"
+                }
+            ],
+            "answer": {
+                "name": "B"
+            }
+        }
+    ],
+    "铁枝木偶": [
+        {
+            "title": "铁枝木偶的发源地是____",
+            "options": [
+                {
+                    "name": "A",
+                    "content": "泉州"
+                },
+                {
+                    "name": "B",
+                    "content": "漳州"
+                },
+                {
+                    "name": "C",
+                    "content": "潮州"
+                },
+                {
+                    "name": "D",
+                    "content": "贵州"
+                }
+            ],
+            "answer": {
+                "name": "C"
+            }
+        },
+        {
+            "title": "以下哪个铁枝木偶戏的俗称？",
+            "options": [
+                {
+                    "name": "A",
+                    "content": "皮影戏"
+                },
+                {
+                    "name": "B",
+                    "content": "阳窗纸影戏"
+                },
+                {
+                    "name": "C",
+                    "content": "悬丝木偶戏"
+                },
+                {
+                    "name": "D",
+                    "content": "烟花木偶戏"
+                }
+            ],
+            "answer": {
+                "name": "B"
+            }
+        },
+        {
+            "title": "完成一场铁枝木偶的表演，需要由多少人在表演台的幕后操纵？",
+            "options": [
+                {
+                    "name": "A",
+                    "content": "1~2人"
+                },
+                {
+                    "name": "B",
+                    "content": "2~3人"
+                },
+                {
+                    "name": "C",
+                    "content": "3~4人"
+                },
+                {
+                    "name": "D",
+                    "content": "4~5人"
+                }
+            ],
+            "answer": {
+                "name": "C"
+            }
+        },
+        {
+            "title": "铁枝木偶戏演出时，左侧的人被叫作？",
+            "options": [
+                {
+                    "name": "A",
+                    "content": "正剧"
+                },
+                {
+                    "name": "B",
+                    "content": "副剧"
+                },
+                {
+                    "name": "C",
+                    "content": "中剧"
+                },
+                {
+                    "name": "D",
+                    "content": "左剧"
+                }
+            ],
+            "answer": {
+                "name": "B"
+            }
+        }
+    ],
+    "药发木偶": [
+        {
+            "title": "药发木偶源于哪个朝代？",
+            "options": [
+                {
+                    "name": "A",
+                    "content": "唐朝"
+                },
+                {
+                    "name": "B",
+                    "content": "宋朝"
+                },
+                {
+                    "name": "C",
+                    "content": "明朝"
+                },
+                {
+                    "name": "D",
+                    "content": "清朝"
+                }
+            ],
+            "answer": {
+                "name": "B"
+            }
+        },
+        {
+            "title": "药发木偶的发源地是？",
+            "options": [
+                {
+                    "name": "A",
+                    "content": "浙江泰顺"
+                },
+                {
+                    "name": "B",
+                    "content": "福建泉州"
+                },
+                {
+                    "name": "C",
+                    "content": "河北邯郸"
+                },
+                {
+                    "name": "D",
+                    "content": "广东潮州"
+                }
+            ],
+            "answer": {
+                "name": "A"
+            }
+        },
+        {
+            "title":"药发木偶的基本单位是？",
+            "options": [
+                {
+                    "name": "A",
+                    "content": "药"
+                },
+                {
+                    "name": "B",
+                    "content": "火"
+                },
+                {
+                    "name": "C",
+                    "content": "烟"
+                },
+                {
+                    "name": "D",
+                    "content": "树"
+                }
+            ],
+            "answer": {
+                "name": "D"
+            }
+        },
+        {
+            "title": "药发木偶也被称作？",
+            "options": [
+                {
+                    "name": "A",
+                    "content": "放花木偶"
+                },
+                {
+                    "name": "B",
+                    "content": "三根棒"
+                },
+                {
+                    "name": "C",
+                    "content": "皮影"
+                },
+                {
+                    "name": "D",
+                    "content": "悬丝木偶"
+                }
+            ],
+            "answer": {
+                "name": "A"
+            }
+        }
+    ]
+}

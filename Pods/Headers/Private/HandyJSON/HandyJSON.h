@@ -1,0 +1,5 @@
+XSym
+0037
+0d72f70c2bc437b3eb3c04b347bc5cae
+../../../HandyJSON/Source/HandyJSON.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

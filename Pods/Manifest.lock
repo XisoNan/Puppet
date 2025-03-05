@@ -1,0 +1,36 @@
+PODS:
+  - EachNavigationBar (2.0.0)
+  - HandyJSON (5.0.2)
+  - Hero (1.5.0)
+  - lottie-ios (4.3.4)
+  - SnapKit (5.6.0)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - EachNavigationBar
+  - HandyJSON (~> 5.0.2)
+  - Hero
+  - lottie-ios
+  - SnapKit
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - EachNavigationBar
+    - HandyJSON
+    - Hero
+    - lottie-ios
+    - SnapKit
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  EachNavigationBar: 062fed3b0c24b13950e153308c59f3520cc441c5
+  HandyJSON: 9e4e236f5d2dbefad5155a77417bbea438201c03
+  Hero: b7385b75e7259da62f4f85462f59a5082d66b058
+  lottie-ios: 3d98679b41fa6fd6aff2352b3953dbd3df8a397e
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: 5a116963d4f78e00f37016c910af5cef510e4d67
+
+COCOAPODS: 1.14.3

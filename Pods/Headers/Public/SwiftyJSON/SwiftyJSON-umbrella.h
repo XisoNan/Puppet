@@ -1,0 +1,5 @@
+XSym
+0062
+91f94e854b5e51bb2398b25c31d348de
+../../../Target Support Files/SwiftyJSON/SwiftyJSON-umbrella.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
